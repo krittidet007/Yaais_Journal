@@ -36,7 +36,22 @@ data-driven, so a new province is one dictionary.
 | ![dialogue](docs/screenshots/fig4_3_dialogue.png) | ![tablet](docs/screenshots/fig4_4_tablet.png) |
 | ![journal](docs/screenshots/fig4_5_journal.png) | ![map](docs/screenshots/fig4_6_map.png) |
 
-## Run it
+## Download
+
+**Latest release: [v0.4.0 — the Southern Thailand release](https://github.com/krittidet007/Yaais_Journal/releases/tag/v0.4.0)**
+
+| asset | what it is |
+|---|---|
+| `YaiisJournal-Linux.tar.gz` | the Linux build (x86-64): unpack it and run `./install.sh`, no Python needed |
+| `Yaais_Journal_Report.pdf` | the project report, 29 pages, English |
+| `โครงงานคอมพิวเตอร์_Yaais_Journal_2569.pdf` | the report in Thai, 25 pages |
+| `Computer Project Board 2026.pdf` | the three-panel competition board, 8 pages, 60 + 120 + 60 cm |
+
+Windows and macOS binaries are built from this source (`build_windows.bat`,
+`installer/mac`) — PyInstaller cannot cross-compile, so each platform builds
+its own binary.
+
+## Run it from source
 
 ```bash
 pip install -r requirements.txt
