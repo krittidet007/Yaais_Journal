@@ -43,8 +43,10 @@ data-driven, so a new province is one dictionary.
 | asset | what it is |
 |---|---|
 | `YaiisJournal-Linux.tar.gz` | the Linux build (x86-64): unpack it and run `./install.sh`, no Python needed |
+| `Yaais_Journal-v0.4.0-source.tar.gz` | the full source (Linux/macOS) — unpack and `pip install -r requirements.txt && python main.py` |
+| `Yaais_Journal-v0.4.0-source.zip` | the same source, for Windows |
 | `Yaais_Journal_Report.pdf` | the project report, 29 pages, English |
-| `โครงงานคอมพิวเตอร์_Yaais_Journal_2569.pdf` | the report in Thai, 25 pages |
+| `Yaais_Journal_Report_TH.pdf` | the report in Thai, 25 pages |
 | `Computer Project Board 2026.pdf` | the three-panel competition board, 8 pages, 60 + 120 + 60 cm |
 
 Windows and macOS binaries are built from this source (`build_windows.bat`,
