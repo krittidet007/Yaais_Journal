@@ -94,6 +94,11 @@ Chiewin Klingbuathong, with advisers Mrs. Paratee Stangmongkol and
 Mrs. Niparat Neamsong — Benjamarachutit School, Nakhon Si Thammarat, under
 the office of the Secondary Education Area Commission.
 
+![QR code for this repository](docs/qr_github.png)
+
+**Source code:** <https://github.com/krittidet007/Yaais_Journal> — scan the code
+above to open this repository.
+
 The game is free to use and study for education. Cultural content is kept
 factual and respectful, and the Thai words are the southern ones spoken in
 the provinces the journey passes through.
